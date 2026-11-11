@@ -106,3 +106,5 @@ git update-index --skip-worktree .dsh/skills   # 让 git 忽略 junction 造成�
 ## 6 怎么退回去
 
 无。原文没有给出独立的回滚步骤。修法 ② 的 `--skip-worktree` 如需撤销，见「出错了怎么办」的 pull 冲突处置。
+
+<!-- ci-smoke: 验证 Actions 触发，不合入 -->
